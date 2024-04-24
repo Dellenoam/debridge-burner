@@ -71,7 +71,7 @@ GAS_PRICE_MULTIPLIER
 
 ## Usage
 
-Configure settings in config.py and then you run it using command below
+Configure settings in config.py and then you can run it using command below
 
 ```bash
 python main.py
