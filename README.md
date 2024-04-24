@@ -1,6 +1,6 @@
 # debridge-burner
 
-debridge-burner is an asynchronous script designed to run the balance on de Bridge, which allows you to farm points by burning the wallet balance on the platform commission, thereby earning points. It allows you to burn the balance of several wallets at the same time (up to 10 or more at the user's request).
+debridge-burner is an asynchronous script designed to run the balance on deBridge, which allows you to farm points by burning the wallet balance on the platform commission, thereby earning points. It allows you to burn the balance of several wallets at the same time (up to 10 or more at the user's request).
 
 ## Disclaimer
 
